@@ -1,3 +1,5 @@
 # Proyecto-final-v1.-Hermes-Mateo-2021-2196.
 
-Link de YT:
+Proyecto final de Hermes Mateo, 2021-2196.
+
+Diseño centrado en el usuario.
